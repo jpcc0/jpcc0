@@ -1,12 +1,13 @@
-# Welcome to my GitHub Profile!
+# Thank you for clicking on my page!
 
-- 👋 Hi, I’m @jpcc0
-- 👀 I’m interested in learning every day
+- 👋 Hi, I’m Joshua P. Conley
+- 👀 I’m interested in Software Engineering and Cybersecurity
 - 🌱 I’m currently learning advanced full-stack development and python programming
 
 
 ## Contact me📫 
 
+conleyjoshuakm@gmail.com
 
 ## Languages...
 <div align="center">
