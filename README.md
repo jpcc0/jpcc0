@@ -19,6 +19,7 @@ conleyjoshuakm@gmail.com
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="40" height="40"/></a></code>
 <code><a href="https://reactjs.org/" title="React" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/></a></code>
 <code><a href="https://getbootstrap.com/" title="Bootstrap" target="_blank"><img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/></a></code>
+<code><a href="https://cplusplus.com/" title="C++" target="_blank"><img src="https://user-images.githubusercontent.com/97537360/212560616-c7027900-c240-42a1-a52b-be82c872e55e.png" alt="C++" width="40" height="40"/></a></code>
 </div>
 
 <!---
