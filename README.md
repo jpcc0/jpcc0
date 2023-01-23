@@ -1,6 +1,6 @@
 # Thank you for clicking on my page!
 
-- 👋 Hi, I’m Joshua P. Conley
+- 👋 Hi, I’m Joshua P. Conley 
 - 👀 I’m interested in Software Engineering and Cybersecurity
 - 🌱 I’m currently learning advanced full-stack development along with advanced python and advanced C++
 
