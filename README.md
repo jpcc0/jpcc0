@@ -6,11 +6,11 @@
 
 
 ## Contact me📫 
-
-conleyjoshuakm@gmail.com
-https://joshuaconley.netlify.app/
-https://www.linkedin.com/in/joshua-conley-dev/
-
+<ul>
+  <li>conleyjoshuakm@gmail.com </li>
+  <li>https://joshuaconley.netlify.app/ </li>
+  <li>https://www.linkedin.com/in/joshua-conley-dev/ </li>
+</ul>
 ## Languages...
 <div align="center">
 <code><a href="https://www.javascript.com/" title="JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/></a></code>
