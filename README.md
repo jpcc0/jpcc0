@@ -8,6 +8,8 @@
 ## Contact me📫 
 
 conleyjoshuakm@gmail.com
+https://joshuaconley.netlify.app/
+https://www.linkedin.com/in/joshua-conley-dev/
 
 ## Languages...
 <div align="center">
