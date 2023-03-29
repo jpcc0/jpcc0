@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ruby, advanced full-stack development, advanced ML python, and advanced C++
 - At the moment I am building different types of programs, along with secure mobile applications
 
-[![Image of https://github.com/jpcc0/view-counter](https://github.com/jpcc0/view-counter/blob/master/svg/profile/badge.svg)](https://github.com/jpcc0/view-counter)
+[![Image of my-profile-view-counter](https://github.com/gayanvoice/my-profile-view-counter/blob/master/svg/372372861/badge.svg)](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/372372861/week.md)
 
 
 ## Contact me📫 
