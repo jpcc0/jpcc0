@@ -1,7 +1,7 @@
 # Thank you for clicking on my page!
 
 - 👋 Hi, I’m Joshua P. Conley 
-- 👀 I’m interested in Software Engineering and Cybersecurity
+- 👀 I’m interested in Full Stack Development and Cybersecurity
 - 🌱 I’m currently learning ruby, advanced full-stack development, advanced ML python, and advanced C++
 - At the moment I am building different types of programs, along with secure mobile applications
 
