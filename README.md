@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Joshua P. Conley 
 - 👀 I’m interested in all things Tech!
-- 🌱 I’m currently working with a diverse range of developers, creating the most efficient solutions for our clients, and employees.
+- 🌱 If you do the little things well, you'll do big ones better
 
 [![Image of https://github.com/jpcc0/view-counter](https://github.com/jpcc0/view-counter/blob/master/svg/profile/badge.svg)](https://github.com/jpcc0/view-counter)
 
