@@ -1,7 +1,7 @@
 # Thank you for clicking on my page!
 
 - 👋 Hi, I’m Joshua P. Conley 
-- 👀 I’m interested in all things Tech!
+- 👀 Try adapting to new languages, it is quite a fun experience
 - 🌱 If you do the little things well, you'll do big ones better
 
 [![Image of https://github.com/jpcc0/view-counter](https://github.com/jpcc0/view-counter/blob/master/svg/profile/badge.svg)](https://github.com/jpcc0/view-counter)
