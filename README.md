@@ -1,8 +1,9 @@
 <h1 align="center">Welcome to my Hub 👋</h1>
-
+<!--
 <p align="center">
   <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="480" height="270">
 </p>
+-->
 <h4 align="center">🚀 Empowering Innovation | 🛠 Crafting Code | 🌟 Igniting Ideas</h4>
 
 ---
@@ -21,10 +22,10 @@ I'm Joshua, a fervent technologist and software artisan. The world of code is my
 
 ### 📫 How to Reach Me
 <ul>
-  <li> 📧 Email: conleyjoshuakm@gmail.com </li>
-  <li> 🔗 Portfolio: JoshuaConley.netlify.app </li>
-  <li> 💼 LinkedIn: Joshua-Conley-Dev </li>
-  <li> 📄 Blog: Joshua's Insights </li>
+  <li> 📧 Email: [conleyjoshuakm@gmail.com] (conleyjoshuakm@gmail.com) </li>
+  <li> 🔗 Portfolio: [Joshua Conley](https://joshuaconley.netlify.app/) </li>
+  <li> 💼 LinkedIn: [in/joshua-conley-dev] (https://www.linkedin.com/in/joshua-conley-dev/)</li>
+  <li> 📄 New Portfolio : [New Portfolio](https://joshuapconley.netlify.app/) </li>
 </ul>
 
 
