@@ -1,8 +1,8 @@
 <h1 align="center">Welcome to my Hub 👋</h1>
 
 <p align="center">
-<iframe src="https://giphy.com/embed/xULW8l2gXuRPmsQe8U" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/code-matrix-xULW8l2gXuRPmsQe8U">via GIPHY</a></p></p>
-
+  <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="480" height="270">
+</p>
 <h4 align="center">🚀 Empowering Innovation | 🛠 Crafting Code | 🌟 Igniting Ideas</h4>
 
 ---
