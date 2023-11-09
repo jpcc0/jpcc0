@@ -1,33 +1,41 @@
-# Thank you for clicking on my page!
+<h1 align="center">Welcome to my Hub 👋</h1>
 
-- 👋 Hi, I’m Joshua P. Conley 
-- 👀 Try adapting to new languages, it is quite a fun experience
-- 🌱 If you do the little things well, you'll do big ones better
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKPMc0LuP4Q4hO0/giphy.gif" width="300">
+</p>
 
-[![Image of https://github.com/jpcc0/view-counter](https://github.com/jpcc0/view-counter/blob/master/svg/profile/badge.svg)](https://github.com/jpcc0/view-counter)
+<h4 align="center">🚀 Empowering Innovation | 🛠 Crafting Code | 🌟 Igniting Ideas</h4>
 
-## Contact me📫 
-<ul>
-  <li>conleyjoshuakm@gmail.com </li>
-  <li>https://joshuaconley.netlify.app/ </li>
-  <li>https://www.linkedin.com/in/joshua-conley-dev/ </li>
-  <li>joshuapconley.netlify.app/</li>
-</ul>
-<!--
-## Languages...
-<div align="center">
-<code><a href="https://www.javascript.com/" title="JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/></a></code>
-<code><a href="https://www.python.org" title="Python" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></code>
-<code><a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></code>
-<code><a href="https://www.java.com" title="Java" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></code>
-<code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="40" height="40"/></a></code>
-<code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="40" height="40"/></a></code>
-<code><a href="https://reactjs.org/" title="React" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/></a></code>
-<code><a href="https://getbootstrap.com/" title="Bootstrap" target="_blank"><img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/></a></code>
-<code><a href="https://cplusplus.com/" title="C++" target="_blank"><img src="https://user-images.githubusercontent.com/97537360/212560616-c7027900-c240-42a1-a52b-be82c872e55e.png" alt="C++" width="40" height="40"/></a></code>
-</div>
+---
 
-<!---
-jpcc0/jpcc0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">"In a world where you can be anything, be kind." - Jennifer Dukes Lee</p>
+
+---
+
+### About Me
+
+I'm Joshua, a fervent technologist and software artisan. The world of code is my playground, and every line I write is a step towards revolutionizing how we interact with technology.
+
+- 👋 Hi, I'm Joshua P. Conley
+- 👀 I'm on a lifelong quest for knowledge and a relentless pursuit of coding mastery.
+- 🌱 I believe in the compounding effect of consistent effort - "If you do the little thing right, you'll do big ones better" - Anonymous.
+
+### 🚀 Quick Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jpcc0&show_icons=true&theme=tokyonight" alt="Joshua P. Conley's GitHub Stats">
+</p>
+
+### 📈 GitHub Activity Graph
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=jpcc0&theme=xcode" alt="Joshua P. Conley's Activity Graph">
+</p>
+
+### 📫 How to Reach Me
+📧 Email: conleyjoshuakm@gmail.com
+🔗 Portfolio: JoshuaConley.netlify.app
+💼 LinkedIn: Joshua-Conley-Dev
+📄 Blog: Joshua's Insights
+
+
+<p align="center">"It is during our darkest moments that we must focus to see the light." - Aristotle</p>
+<h6 align="center">Made with ❤️ and a sprinkle of Markdown magic.</h6>
