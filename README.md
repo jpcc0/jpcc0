@@ -1,14 +1,13 @@
 <h1 align="center">Welcome to my Hub 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKPMc0LuP4Q4hO0/giphy.gif" width="300">
-</p>
+<iframe src="https://giphy.com/embed/xULW8l2gXuRPmsQe8U" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/code-matrix-xULW8l2gXuRPmsQe8U">via GIPHY</a></p></p>
 
 <h4 align="center">🚀 Empowering Innovation | 🛠 Crafting Code | 🌟 Igniting Ideas</h4>
 
 ---
 
-<p align="center">"In a world where you can be anything, be kind." - Jennifer Dukes Lee</p>
+<p align="center">"The only thing we have to fear is fear itself." -Franklin D. Roosevelt</p>
 
 ---
 
@@ -21,10 +20,12 @@ I'm Joshua, a fervent technologist and software artisan. The world of code is my
 - 🌱 I believe in the compounding effect of consistent effort - "If you do the little thing right, you'll do big ones better" - Anonymous.
 
 ### 📫 How to Reach Me
-📧 Email: conleyjoshuakm@gmail.com
-🔗 Portfolio: JoshuaConley.netlify.app
-💼 LinkedIn: Joshua-Conley-Dev
-📄 Blog: Joshua's Insights
+<ul>
+  <li> 📧 Email: conleyjoshuakm@gmail.com </li>
+  <li> 🔗 Portfolio: JoshuaConley.netlify.app </li>
+  <li> 💼 LinkedIn: Joshua-Conley-Dev </li>
+  <li> 📄 Blog: Joshua's Insights </li>
+</ul>
 
 
 <p align="center">"It is during our darkest moments that we must focus to see the light." - Aristotle</p>
