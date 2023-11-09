@@ -20,16 +20,6 @@ I'm Joshua, a fervent technologist and software artisan. The world of code is my
 - 👀 I'm on a lifelong quest for knowledge and a relentless pursuit of coding mastery.
 - 🌱 I believe in the compounding effect of consistent effort - "If you do the little thing right, you'll do big ones better" - Anonymous.
 
-### 🚀 Quick Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jpcc0&show_icons=true&theme=tokyonight" alt="Joshua P. Conley's GitHub Stats">
-</p>
-
-### 📈 GitHub Activity Graph
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=jpcc0&theme=xcode" alt="Joshua P. Conley's Activity Graph">
-</p>
-
 ### 📫 How to Reach Me
 📧 Email: conleyjoshuakm@gmail.com
 🔗 Portfolio: JoshuaConley.netlify.app
