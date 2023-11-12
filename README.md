@@ -4,8 +4,7 @@
   <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="480" height="270">
 </p>
 -->
-<h4 align="center">🚀 Empowering Innovation | 🛠 Crafting Code | 🌟 Igniting Ideas | [![Image of https://github.com/jpcc0/view-counter](https://github.com/jpcc0/view-counter/blob/master/svg/profile/badge.svg)](https://github.com/jpcc0/view-counter)
-</h4>
+<h4 align="center">🚀 Empowering Innovation | 🛠 Crafting Code | 🌟 Igniting Ideas</h4>
 
 ---
 <!--<p align="center">[![Image of https://github.com/jpcc0/view-counter](https://github.com/jpcc0/view-counter/blob/master/svg/profile/badge.svg)](https://github.com/jpcc0/view-counter)</p>-->
@@ -30,6 +29,9 @@ I'm Joshua, a fervent technologist and software artisan. The world of code is my
   <li> 📄 New Portfolio : [New Portfolio] (https://joshuapconley.netlify.app/) </li>
 </ul>
 
+---
+[![Image of https://github.com/jpcc0/view-counter](https://github.com/jpcc0/view-counter/blob/master/svg/profile/badge.svg)](https://github.com/jpcc0/view-counter)
 
+---
 <p align="center">"It is during our darkest moments that we must focus to see the light." - Aristotle</p>
 <h6 align="center">Made with ❤️ and a sprinkle of Markdown magic.</h6>
