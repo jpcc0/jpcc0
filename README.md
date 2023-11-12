@@ -7,7 +7,8 @@
 <h4 align="center">🚀 Empowering Innovation | 🛠 Crafting Code | 🌟 Igniting Ideas</h4>
 
 ---
-<p align="center">[![Image of https://github.com/jpcc0/view-counter](https://github.com/jpcc0/view-counter/blob/master/svg/profile/badge.svg)](https://github.com/jpcc0/view-counter)</p>
+<!--<p align="center">[![Image of https://github.com/jpcc0/view-counter](https://github.com/jpcc0/view-counter/blob/master/svg/profile/badge.svg)](https://github.com/jpcc0/view-counter)</p>-->
+[![Image of https://github.com/jpcc0/view-counter](https://github.com/jpcc0/view-counter/blob/master/svg/profile/badge.svg)](https://github.com/jpcc0/view-counter)
 
 <p align="center">"The only thing we have to fear is fear itself." -Franklin D. Roosevelt</p>
 
