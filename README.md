@@ -25,7 +25,7 @@ I'm Joshua, a fervent technologist and software artisan. The world of code is my
 <ul>
   <li> 📧 Email: conleyjoshuakm@gmail.com </li>
   <li> 🔗 Portfolio: [Joshua Conley] (https://joshuaconley.netlify.app/) </li>
-  <li> 💼 LinkedIn: [in/joshua-conley-dev] (https://www.linkedin.com/in/joshua-conley-dev/)</li>
+  <li> 💼 LinkedIn: [in/joshuapconley] (https://www.linkedin.com/in/joshuapconley/)</li>
   <li> 📄 New Portfolio : [New Portfolio] (https://joshuapconley.netlify.app/) </li>
 </ul>
 
