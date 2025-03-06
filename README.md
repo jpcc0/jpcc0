@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my Hub 👋</h1>
+<h1 align="center">Welcome!</h1>
 <!--
 <p align="center">
   <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="480" height="270">
