@@ -17,17 +17,10 @@
 
 I'm Joshua, a fervent technologist and software artisan. The world of code is my playground, and every line I write is a step towards revolutionizing how we interact with technology.
 
-- 👋 Hi, I'm Joshua P. Conley
+- 👋 Hi, I'm Joshua
 - 👀 I'm on a lifelong quest for knowledge and a relentless pursuit of coding mastery.
 - 🌱 I believe in the compounding effect of consistent effort - "If you do the little thing right, you'll do big ones better" - Anonymous.
 
-### 📫 How to Reach Me
-<ul>
-  <li> 📧 Email: conleyjoshuakm@gmail.com </li>
-  <li> 🔗 Portfolio: [Joshua Conley] (https://joshuaconley.netlify.app/) </li>
-  <li> 💼 LinkedIn: [in/joshuapconley] (https://www.linkedin.com/in/joshuapconley/)</li>
-  <li> 📄 New Portfolio : [New Portfolio] (https://joshuapconley.netlify.app/) </li>
-</ul>
 
 ---
 [![Image of https://github.com/jpcc0/view-counter](https://github.com/jpcc0/view-counter/blob/master/svg/profile/badge.svg)](https://github.com/jpcc0/view-counter)
